@@ -1,3 +1,3 @@
 # Learn-git
 Learning Git and Github
-Author - Ajay Muthal 
+Author - Ajay Muthal (Software Developer)
